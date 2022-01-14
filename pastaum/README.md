@@ -1,4 +1,4 @@
-<h1>O que há neste projeto</h1>
+<h1>O que há neste projeto:</h1>
 
 <h2>Exercícios Básicos</h2>
 <ul>
