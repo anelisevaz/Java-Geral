@@ -20,5 +20,6 @@ public class Calculadoracomoperadores{
 
     System.out.printf("%.2f %s %.2f = %.2f", num1, op, num2, resultado);
     entrada.close();
+    
   }
 }
