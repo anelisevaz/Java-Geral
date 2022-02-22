@@ -1,7 +1,6 @@
-<h1 align="center">Pasta JAVA</h1>
-<p align="center">Mais detalhes sobre os projetos de cada pasta</p>
+<h1 align="center">Java Geral</h1>
 
-<h3>Pasta: </h3>
+<h3>Pasta | Projeto </h3>
 <ul>
-  <li>Calculadora com Operados: calculadora básica com operadores.</li>
+  <li>Calculadora-Operadores | Calculadora com Operados: calculadora básica com operadores.</li>
 </ul>  
